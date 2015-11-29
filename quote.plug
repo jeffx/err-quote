@@ -1,0 +1,9 @@
+[Core]
+Name = quote
+Module = quote
+
+[Documentation]
+Description = An errbot plugin to get a quote
+
+[Python]
+Version = 3
